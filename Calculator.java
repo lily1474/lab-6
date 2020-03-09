@@ -11,6 +11,7 @@ public class Calculator {
         System.out.println("4. Division");
         System.out.print("\n");
         System.out.println("Which operation do you want to perform?");
+        System.out.print("I made a new branch");
 
     }
 }
